@@ -1,0 +1,1 @@
+# Redefinir-a-senha-do-administrador-via-linha-de-comando
